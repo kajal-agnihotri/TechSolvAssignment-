@@ -1,0 +1,26 @@
+OOPSconepts : OOPS is a programing paradigm that is based on the concept of 
+              objects rather than just functions  and procedures, 
+              it is the most popular methodology among developers. 
+
+              OOPs stands for object oriented programing. it is a programing paradigm that
+              revolves arround the object rather than function and procedures,
+
+              it is an approach for developing applications that emphasize an objects.
+              an object is a real word entity that contains data and code. it 
+              allows binding data and code together.
+
+Purpose of OOPs concept : the aim of OOP is to implement real-world entities like inheritance,
+                          hiding, polymorphism in programing.
+                          the main Purpose of OOP is to binding together the data and the functions that operate on them so that no other part of the code
+                          can access this data expect this fuction.
+
+                          Above code is an example of ‘classes’. Classes are the blueprints of objects. Classes are the programmer-defined data type, which includes the local methods and the local variables. Class is a collection of objects which has properties and behaviour.
+
+
+                          15. A function in PHP which starts with __ (double underscore) is known as __________
+a) Default Function
+b) User Defined Function
+c) Inbuilt Function
+d) Magic Function
+
+Explanation: PHP functions that start with a double underscore – a “__” – are called magic functions. They are functions that are always defined inside classes, and are not stand-alone functions.
